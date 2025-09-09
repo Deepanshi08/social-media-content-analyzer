@@ -20,5 +20,13 @@ This is a simple application that extracts text from uploaded PDF and Image file
 
 ## How to Run
 1. Clone this repository  
-2. Install dependencies:  
+2. Install dependencies:
+ pip install -r requirements.txt 
+3. Run the app:  
+ streamlit run app.py    
+## Live Demo
+👉 Add your Streamlit App URL here after deployment  
+
+## Author
+Made by **Deepanshi Sonker**
 
